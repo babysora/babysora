@@ -2,7 +2,7 @@
   "name": "Baby SORA",
   "symbol": "BabySORA",
   "description": "Immerse yourself in a visually stunning fusion of Sora's AI model and the dynamic realm of crypto, as you witness the birth of innovation and partnerships in every phases",
-  "image": "https://github.com/babysora/babysora/blob/main/logo.jpg",
+  "image": "https://raw.githubusercontent.com/babysora/babysora/main/logo.jpg",
   "attributes": [
     {
       "trait_type": "Item",
